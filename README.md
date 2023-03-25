@@ -1,6 +1,6 @@
 # i18n
 
-> Last updated at 3/25/2023, 3:46:49 PM
+> Last updated at 3/25/2023, 5:22:04 PM
 
 | Status | Language | % Translated |
 | --- | --- | --- |
