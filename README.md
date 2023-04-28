@@ -1,11 +1,11 @@
 # i18n
 
-> Last updated at 4/12/2023, 4:17:06 PM
+> Last updated at 4/28/2023, 10:58:17 AM
 
 | Status | Language | % Translated |
 | --- | --- | --- |
 | ⚠️ | Belarusian | 86.0% |
 | ✅ | English | 100.0% |
 | ⚠️ | Italian | 96.3% |
-| ⚠️ | Russian | 95.1% |
+| ⚠️ | Russian | 98.8% |
 | ⚠️ | Ukrainian | 86.0% |
