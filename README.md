@@ -1,13 +1,14 @@
 # i18n
 
-> Last updated at 5/30/2023, 9:03:00 AM
+> Last updated at 5/30/2023, 9:07:17 AM
 
 | Status | Language | % Translated |
 | --- | --- | --- |
-| ⚠️ | Belarusian | 97.6% |
-| ⚠️ | German | 98.8% |
+| ⚠️ | Belarusian | 95.9% |
+| ⚠️ | German | 97.0% |
 | ✅ | English | 100.0% |
-| ✅ | Italian | 100.0% |
-| ⚠️ | Russian | 97.6% |
-| ⚠️ | Turkish | 98.8% |
-| ⚠️ | Ukrainian | 97.6% |
+| ⚠️ | Italian | 98.2% |
+| ⚠️ | Russian | 95.9% |
+| ⚠️ | Turkish | 97.0% |
+| ⚠️ | Ukrainian | 95.9% |
+| ✅ | 简体中文 | 100.0% |
