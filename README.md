@@ -1,6 +1,6 @@
 # i18n
 
-> Last updated at 6/8/2023, 5:18:21 AM
+> Last updated at 6/12/2023, 7:42:12 AM
 
 | Status | Language | % Translated |
 | --- | --- | --- |
@@ -9,6 +9,7 @@
 | ✅ | English | 100.0% |
 | ✅ | Spanish | 100.0% |
 | ⚠️ | Italian | 98.2% |
+| ✅ | Portuguese (Brazil) | 100.0% |
 | ⚠️ | Russian | 97.0% |
 | ⚠️ | Turkish | 97.0% |
 | ⚠️ | Ukrainian | 97.0% |
