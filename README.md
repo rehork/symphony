@@ -1,13 +1,13 @@
 # Symphony i18n
 
-> Last updated at 9/9/2023, 1:39:17 AM
+> Last updated at 9/11/2023, 12:39:42 AM
 
 Read [Translations Guide](https://github.com/zyrouge/symphony/wiki/Translations-Guide) on how Symphony handles localization.
 
 | Status | Locale | % Translated |
 | --- | --- | --- |
 | ⚠️ | [`be`](https://github.com/zyrouge/symphony/blob/main/i18n/be.toml) | 97.4% |
-| ⚠️ | [`de`](https://github.com/zyrouge/symphony/blob/main/i18n/de.toml) | 86.8% |
+| ⚠️ | [`de`](https://github.com/zyrouge/symphony/blob/main/i18n/de.toml) | 97.4% |
 | ✅ | [`en`](https://github.com/zyrouge/symphony/blob/main/i18n/en.toml) | 100.0% |
 | ⚠️ | [`es`](https://github.com/zyrouge/symphony/blob/main/i18n/es.toml) | 89.4% |
 | ⚠️ | [`fr`](https://github.com/zyrouge/symphony/blob/main/i18n/fr.toml) | 94.7% |
