@@ -1,6 +1,6 @@
 # Symphony i18n
 
-> Last updated at 9/11/2023, 12:39:42 AM
+> Last updated at 10/24/2023, 4:24:25 PM
 
 Read [Translations Guide](https://github.com/zyrouge/symphony/wiki/Translations-Guide) on how Symphony handles localization.
 
